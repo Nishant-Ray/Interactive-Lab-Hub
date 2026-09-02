@@ -2,12 +2,11 @@
 
 _This project is to be done in teams of 2._
 
-**NAME OF BOTH COLLABORATOR(S) HERE**
+**NAME OF BOTH COLLABORATOR(S) HERE:**
+Nishant Ray, Ziji Zhang
 
-**THE MASTERWORK YOU DREW FROM THE HAT:**
-
+**THE MASTERWORK YOU DREW FROM THE HAT:** The Five-Tone Light Wall (Close, Encounters, 1977)
 ---
-
 One way to understand greatness is to look to the greats. Just as painters learn
 the technique and artistry of the old masters by recreating their paintings, so
 too shall we come to understand computer-mediated interaction by recreating the
@@ -220,15 +219,14 @@ Feedback from group #1:
 - "We aren’t familiar with exactly what is happening but I can tell it’s a communication of some kind using light. The main character is the person working on the communication with the light. The video is good and I can tell what is going on. I think maybe making it more clear there is some sort of communication going on would be nice. Maybe some more sound could make it clear and help with understanding  what is going on."
 
 Feedback from group #2:
-- [github link]
-- [youtube link]
-- "feedback]
+- https://drive.google.com/file/d/1PaZeyPPfI2rwBXfLMNF6pYCnSPNnsKAl/view
+- "The call-and-response structure was clear in the video. We could see the person sending a signal from the controller, waiting, and then receiving a sequence of colors on the larger screen. The pause before the response was especially helpful because it made the light feel like it was reacting rather than simply playing an animation. We were able to connect the interaction to ‘Close Encounters of the Third Kind’, especially once the colored signals began changing in sequence. One thing that could make the interaction even clearer would be to distinguish the "human" signal and the "alien" response more visually, since both sides currently use similar screen-based interfaces."
+
 
 Feedback from group #3:
-- [github link]
-- [youtube link]
-- "feedback]
-- 
+- https://github.com/certaindragon3/Interactive-Lab-Hub/tree/Fall2026/Lab%201
+- "From the video, we saw a person interacting with a changing light source on a screen. The light changes from a cooler color to orange and red, and the person's movements suggest that the light is becoming stronger or more intense. We thought the human reactions worked well, especially when the person moved away as the light became more intense. This made the light feel responsive rather than static. However, from the video alone, the campfire was not immediately recognizable to me because there was no clear visual representation of a flame. The screen mainly appeared as a changing block of color. We wonder if adding a more visible flickering or flame-like light pattern would make the campfire interaction easier to recognize without explanation."
+
 ## Remix, Update, or Critique the Master
 
 Now that you understand your masterwork from the inside, respond to it. Do the
