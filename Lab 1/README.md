@@ -214,6 +214,21 @@ wasn't clear.
 **Who were the other groups you kibitzed with? Add links to their project pages here.**
 **Summarize the feedback you got from your partners here.**
 
+Feedback from group #1:
+- https://github.com/Gtpatel02/Interactive-Lab-Hub/tree/Fall2026/Lab%201
+- https://youtube.com/shorts/c-4ke0_H81Y
+- "We aren’t familiar with exactly what is happening but I can tell it’s a communication of some kind using light. The main character is the person working on the communication with the light. The video is good and I can tell what is going on. I think maybe making it more clear there is some sort of communication going on would be nice. Maybe some more sound could make it clear and help with understanding  what is going on."
+
+Feedback from group #2:
+- [github link]
+- [youtube link]
+- "feedback]
+
+Feedback from group #3:
+- [github link]
+- [youtube link]
+- "feedback]
+- 
 ## Remix, Update, or Critique the Master
 
 Now that you understand your masterwork from the inside, respond to it. Do the
