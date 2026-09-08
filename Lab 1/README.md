@@ -245,6 +245,8 @@ combine them):
 We will grade this second pass with an emphasis on **creativity** and on how well
 your response engages with what your master was really doing.
 
+***FINAL VIDEO: http://youtube.com/shorts/sNoawXLJ9jE***
+
 **Document everything here — especially the storyboard and video. Photos of the
 prototype are great too.**
 
