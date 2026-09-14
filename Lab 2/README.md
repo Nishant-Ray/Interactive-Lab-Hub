@@ -110,6 +110,9 @@ Install the packages from the requirements.txt and run the example script `cli_c
 The terminal should show the time, you can press `ctrl-c` to exit the script.
 If you are unfamiliar with the Python code in `cli_clock.py`, have a look at [this Python refresher](https://hackernoon.com/intermediate-python-refresher-tutorial-project-ideas-and-tips-i28s320p). If you are still concerned, please reach out to the teaching staff!
 
+Successfully cloned the Lab 2 repo and was able to view the CLI clock:
+
+<img width="697" height="42" alt="Screenshot 2026-09-13 at 10 24 02 PM" src="https://github.com/user-attachments/assets/26de8b57-b076-46f8-94d7-1c92dc9d0ccc" />
 
 ## Part C. 
 ### Set up your RGB Display
@@ -159,6 +162,13 @@ You can look in `image.py` for an example of how to display an image on the scre
 
 \*\*\***Include a picture of your own Raspberry Pi displaying the piscreen.service with your unique MAC address. Additionally, please provide another picture showing the successful completion of the screen test.**\*\*\*
 
+Successfully displayed the piscreen.service:
+
+<img width="3150" height="2363" alt="IMG_7255" src="https://github.com/user-attachments/assets/bc82216d-3595-4fdf-a23d-9f20c3646065" />
+
+As well as the screen test (chose blue as my custom color):
+
+<img width="3809" height="2857" alt="IMG_7256" src="https://github.com/user-attachments/assets/25fc0aa9-ddd2-4bee-b042-ea0c92bada92" />
 
 ## Part D. 
 ### Set up the Display Clock Demo
@@ -184,6 +194,10 @@ Option 3. A nowadays often preferred method is to use Microsoft [VS code to remo
 
 Pro Tip: Using tools like [code-server](https://coder.com/docs/code-server/latest) you can even setup a VS Code coding environment hosted on your raspberry pi and code through a web browser on your tablet or smartphone! 
 
+Updated screen_clock.py to display the time!
+
+<img width="4032" height="3024" alt="IMG_7257" src="https://github.com/user-attachments/assets/fafa5175-d8d2-49f2-a36a-e091a1fa483c" />
+
 ## Part E. Read Part 2. Sketch and brainstorm further interactions and features you would like for your clock.
 
 One potential source of ideas might be thinking about other clocks and timekeeping devices for inspiration.
@@ -192,9 +206,10 @@ Another might be novel units of time. How do you measure a year? [In daylights? 
 
 We strongly discourage literal digital or analog clock display: Be creative.
 
-
 ** Insert ideas, sketches, [Verplank diagrams](https://ccrma.stanford.edu/courses/250a-fall-2004/IDSketchbok.pdf)), storyboards for your ideas **
 
+Below are some ideas for further improvements to the clock interface:
+<img width="3417" height="1589" alt="part e" src="https://github.com/user-attachments/assets/1ed79a3b-d2f8-41b8-8074-af809cd4f256" />
 
 
 **Put the names of the people you gave feedback to here. (Even better, add links to their repos here!)**
