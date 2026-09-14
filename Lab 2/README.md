@@ -166,7 +166,7 @@ Successfully displayed the piscreen.service:
 
 <img width="3150" height="2363" alt="IMG_7255" src="https://github.com/user-attachments/assets/bc82216d-3595-4fdf-a23d-9f20c3646065" />
 
-As well as the screen test (chose blue as my custom color):
+As well as the screen test (chose blue as custom color):
 
 <img width="3809" height="2857" alt="IMG_7256" src="https://github.com/user-attachments/assets/25fc0aa9-ddd2-4bee-b042-ea0c92bada92" />
 
