@@ -230,6 +230,8 @@ Instead of showing literal time, a chibi Spider-Man mascot swaps suits every hou
 
 
 **Put the names of the people you gave feedback to here. (Even better, add links to their repos here!)**
+- For [group #1](https://github.com/ammarsyed/Interactive-Lab-Hub/blob/Fall2026/Lab%202/README.md):
+  - I like the idea of using an hourglass as a way to represent time. It’s something that everyone is familiar with so it’s very intuitive and gives a clear visual sense of time passing. Though I would say I always personally found hourglasses to be a little ambiguous in regard to how much time is left for it to finish ticking. I’d be interested in seeing how you could make the concept feel a little more unique or personal beyond a traditional hourglass.
 
 # Lab 2 Part 2
 
@@ -240,9 +242,8 @@ Instead of showing literal time, a chibi Spider-Man mascot swaps suits every hou
 2. Look at and give feedback on the Part E. for at least 3 other people in the class and get 3 people to comment on your Part E!)
 **Put the feedback for your ideas here.**
 
-From [one group](https://github.com/ammarsyed/Interactive-Lab-Hub/blob/Fall2026/Lab%202/README.md):
-- The Spider Verse clock is a super creative way to represent time, far different than a traditional digital or analog display. I really like how each hour has a different Spider Man suit and a correlated food related to that suit. The quantity of that food is what correlates to the actual time. It is very playful and visually unique.
-- My only concern is that displaying that many items at a high numbered time like 12:00, which means 12 food items, might make this small screen very crowded. Maybe you can adjust that by using one food icon and then a number, either inside or to the side of that food item, to show the relevant time.
+- From [group #1](https://github.com/ammarsyed/Interactive-Lab-Hub/blob/Fall2026/Lab%202/README.md):
+  - The Spider Verse clock is a super creative way to represent time, far different than a traditional digital or analog display. I really like how each hour has a different Spider Man suit and a correlated food related to that suit. The quantity of that food is what correlates to the actual time. It is very playful and visually unique. My only concern is that displaying that many items at a high numbered time like 12:00, which means 12 food items, might make this small screen very crowded. Maybe you can adjust that by using one food icon and then a number, either inside or to the side of that food item, to show the relevant time.
 
 ## Update your Lab Hub
 
