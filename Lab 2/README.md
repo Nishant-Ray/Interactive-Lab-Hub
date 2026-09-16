@@ -277,6 +277,8 @@ After you edit and work on the scripts for Lab 2, the files should be upload bac
 
 After that, Git will ask you to login to your GitHub account to push the updates online, you will be asked to provide your GitHub user name and password. Remember to use the "Personal Access Tokens" you set up in Part A as the password instead of your account one! Go on your GitHub repo with your laptop, you should be able to see the updated files from your Pi!
 
+https://github.com/user-attachments/assets/f0d4c622-57c3-4c62-bac6-55b681a367e6
+
 ## Now, make your own PiClock
 
 Do take advantage of having done the previous iteration to refine and simplify your design.
