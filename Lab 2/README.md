@@ -279,6 +279,8 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 https://github.com/user-attachments/assets/f0d4c622-57c3-4c62-bac6-55b681a367e6
 
+For our barebones clock, we modified images.py to allow for switching between two images on click: Spider-Man in the daytime and Spider-Man at night. This was the base functionality of our clock. We were surprised at how great the resolution is on the Adafruit screen!
+
 ## Now, make your own PiClock
 
 Do take advantage of having done the previous iteration to refine and simplify your design.
@@ -294,5 +296,7 @@ Do take advantage of having done the previous iteration to refine and simplify y
 As always, make sure you document contributions and ideas from others (and AI) explicitly in your writeup.
 
 You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab.  Make sure the page for the group turn in is linked to your personal Interactive Lab Hub page. 
+--
+After we were able to successfully display and switch between images on our bare-bones clock, we generated images for each hour of Spider-Man's day to display on the Pi. To avoid copyright issues, we prompted our own version of a masked hero and came up with scenarios/actions he does for each time of day (ex: waking up at 6am, fighting a villain at 9pm, sleeping from 2am to 7am). Our scenarios were inspired by the Spider-Verse franchise, though we added our own twists as well. To spruce it up, we generated multiple images for each hour to simulate animation sequences and make the time display more film-like. We took our user feedback into consideration and decided against adding food for each hour, and instead focused on updating the background image so the clock is readable and not crowded.
 
 
