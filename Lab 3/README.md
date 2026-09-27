@@ -1,6 +1,6 @@
 # Chatterboxes
 
-**NAMES OF COLLABORATORS HERE**
+**NAMES OF COLLABORATORS HERE:** Nishant Ray (nr487), Gaurav Patel (gp438), Neeha Ravula (nr485), Ammar Syed (as4422)
 
 [![Watch the video](https://user-images.githubusercontent.com/1128669/135009222-111fe522-e6ba-46ad-b6dc-d1633d21129c.png)](https://youtu.be/LZ0VJClIlRI?si=Yy84mcyVYuVV19mn)
 
