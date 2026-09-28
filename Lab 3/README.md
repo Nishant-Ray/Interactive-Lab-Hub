@@ -109,7 +109,11 @@ The demo script also shows `--output-raw`, which streams audio to the speaker as
 \*\***Write your own shell file to use your favorite of these TTS engines to have your Pi greet you by name.**\*\*
 (This shell file should be saved to your own repo for this lab.)
 
+Created `speech_scripts/part_a.sh` to use `en_US-kusal-medium` via Piper.
+
 \*\***Then answer: Is the same greeting, in these different voices, the same greeting? Describe one concrete way the voice changed what the utterance seemed to mean or who seemed to be speaking.**\*\*
+
+> Not really. The words are the same, but each voice has a different tone and sounds very different because it's a different speaker/mechanism of generating voice. For example, when they each say "I hope you've been well" it almost means something different due to the different voices. In espeak, it comes out very robotic and flat, almost sounds like it doesn't really mean it or care. The Festival one is a bit better but is very monotone and automated sounding, every word seems to have the same pitch. Piper's actually sounded pretty good and genuine, with natural pauses and increased stress and variable pitch on different words. It made the user/me feel like it actually cared/the message was meaningful.
 
 ## B. Speech to Text
 
@@ -131,7 +135,11 @@ Available sizes, smallest first: `tiny.en`, `base.en`, `small.en`, `medium.en`. 
 
 \*\***Record a few seconds of your own speech (`arecord -d 5 -f cd -c 1 -r 16000 test.wav`) and transcribe it with at least two model sizes. Report the real-time factor for each. At what point does the accuracy improvement stop being worth the delay, for a system that has to answer you?**\*\*
 
+> Recorded speech into `speech_scripts/test.wav`. Transcribed it with `tiny.en` and `base.en`. With `tiny.en`,  the real-time factor was `0.25x`. With `base.en`, the real-time fator was `0.42x`. The accuracy improvement stops being worth the delay when a larger model makes the conversation noticeably slower without meaningfully reducing transcription errors. In your test, base.en took 0.86 seconds longer than tiny.en but produced essentially the same words, so tiny.en offers the better trade-off for that recording. If it frequently misunderstands requests, a slower, more accurate model could be worth it. From these numbers, it seems that a model with a real-time factor greater than 1.0 would not be worth it as well.
+
 \*\***Write your own script that verbally asks for a numerical input (a phone number, zipcode, number of pets) and records the answer the respondent provides.**\*\* Numbers are a good stress test — transcription systems make characteristic errors on digit strings, and you will want to know what they are before you design around them.
+
+> Created `speech_scripts/part_b.sh` to obtain the zip code of the user.
 
 ## C. Turn-taking: knowing when someone has stopped talking
 
@@ -152,6 +160,8 @@ Speak, pause, and watch it transcribe. Now change the endpointing threshold — 
 ```
 
 \*\***Try both extremes, and something in between. Describe what each one feels like to talk to. Note specifically: at 0.2s, what kinds of normal speech get cut off? At 1.5s, what does the delay make the system seem like?**\*\*
+
+> There is no correct value. A system that takes drink orders and a system that listens to someone think out loud want very different thresholds, and the right one depends on what your users are doing with their pauses. At 0.2 seconds, the system cut my voice short. I said "I'd like a coffee um with oat milk and acutally to make it a large" but it only captured "with oat milk and actually make it a large." Pauses and filler words were treated as the end of my turn. At 1.5s it captured the entire sentence but I had to wait for a bit in silence afterwards. The 1.5s made be a bit unsure on whether I was done or what the status was. In between at 0.6 seconds it caught my sentence and replied much quicker.
 
 There is no correct value. A system that takes drink orders and a system that listens to someone think out loud want very different thresholds, and the right one depends on what your users are doing with their pauses.
 
