@@ -195,31 +195,9 @@ Find a partner, and *without sharing the script with your partner* try out the d
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
 
-Here is our transcript of testing out the device:
-- 00:00 Nishant: What snack would you like?
-- 00:03 Partner: Uh, what are the options?
-- 00:07 Nishant: Please choose chips, cookies, or a bar. (Listens for 5 seconds)
-- 00:08 Partner: Oh, okay how about cookies.
-- 00:13 Nishant: Please choose chips, cookies, or a bar. (Listens for 5 seconds)
-- 00:14 Partner: Cookies.
-- 00:19 Nishant: You chose cookies. Is that correct? (Listens for 3 seconds)
-- 00:20 Partner: Yes.
-- 00:23 Nishant: Here are your cookies. Enjoy!
-- 00:24 Nishant: Would you like to make another order? (Listens for 3 seconds)
-- 00:25 Partner: Sure.
-- 00:24 Nishant: What snack would you like? (Listens for 5 seconds)
-- 00:25 Partner: Chips.
-- 00:29 Nishant: You chose chips. Is that correct? (Listens for 3 seconds)
-- 00:31 Partner: Actually, no.
-- 00:34 Nishant: What snack would you like? (Listens for 5 seconds)
-- 00:37 Partner: Bar.
-- 00:41 Nishant: You chose a bar. Is that correct? (Listens for 3 seconds)
-- 00:43 Partner: Yes.
-- 00:46 Nishant: Here is your bar. Enjoy! Would you like to make another order? (Listens for 3 seconds)
-- 00:48 Partner: No.
--  00:51 Nishant: Have a good day!
+[Here is our recording!](https://drive.google.com/file/d/1If0gT5JYrgCUZfPp079eUhKI9P43WqOS/view?usp=sharing)
 
-The dialogue felt less natural when acted out than we had imagined. Our partner first asked what the options were, which showed that the machine should list the snacks in its opening question. They also said "Oh, okay how about cookies" instead of simply "Cookies." Repeating the options after that felt awkward because their choice was already clear. The fixed listening windows also created pauses even when my partner answered immediately. However, the confirmation step worked well when they changed their mind about chips, and asking whether they wanted another order made it easy to continue. We would improve the interaction by listing the options upfront, accepting more natural phrases, and responding sooner when the user finishes speaking if possible.
+The dialogue felt less natural when acted out than we had imagined. We designed the platform to only recognize certain words exactly, so having to repeat the options after that felt awkward because their choice was already clear. The fixed listening windows also created pauses even when my partner answered immediately. We would improve the interaction by accepting more natural phrases, and responding sooner when the user finishes speaking if possible.
 
 ---
 
