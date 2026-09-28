@@ -185,12 +185,39 @@ Write out what you imagine the dialogue to be. Use cards, post-its, or whatever 
 
 Your script should include the pauses. Where does your device wait, and for how long? You now know from Part C that this is a parameter you have to choose, not something that happens for free.
 
+<img width="3212" height="3304" alt="IMG_4628" src="https://github.com/user-attachments/assets/18875e66-d5ab-48a9-976d-aeee40795488" />
+
+We chose a speech-enabled vending machine because it provides a simple, familiar interaction that can be completed through a short conversation. We started with the successful path: the machine asks what snack the user wants, the user chooses, and the machine confirms before announcing that the snack is ready. We then considered alternative responses, including an unavailable snack, an incorrect selection, and silence. These became branches in the diagram, allowing the machine to repeat the available options, accept a correction, or cancel the interaction. We chose a five-second listening window for selecting a snack and a three-second window for confirmation because choosing a snack may take longer than answering yes or no. We also simplified the system by making the snacks free and not having any payment, allowing us to focus on asking for a snack, recognizing the response, and confirming the selection.
+
 ## E. Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing. Please record this interaction (for example, using Zoom's record feature).
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
 
+Here is our transcript of testing out the device:
+- 00:00 Nishant: What snack would you like?
+- 00:03 Partner: Uh, what are the options?
+- 00:07 Nishant: Please choose chips, cookies, or a bar. (Listens for 5 seconds)
+- 00:08 Partner: Oh, okay how about cookies.
+- 00:13 Nishant: Please choose chips, cookies, or a bar. (Listens for 5 seconds)
+- 00:14 Partner: Cookies.
+- 00:19 Nishant: You chose cookies. Is that correct? (Listens for 3 seconds)
+- 00:20 Partner: Yes.
+- 00:23 Nishant: Here are your cookies. Enjoy!
+- 00:24 Nishant: Would you like to make another order? (Listens for 3 seconds)
+- 00:25 Partner: Sure.
+- 00:24 Nishant: What snack would you like? (Listens for 5 seconds)
+- 00:25 Partner: Chips.
+- 00:29 Nishant: You chose chips. Is that correct? (Listens for 3 seconds)
+- 00:31 Partner: Actually, no.
+- 00:34 Nishant: What snack would you like? (Listens for 5 seconds)
+- 00:37 Partner: Bar.
+- 00:41 Nishant: You chose a bar. Is that correct? (Listens for 3 seconds)
+- 00:43 Partner: Yes.
+- 00:46 Nishant: Here is your bar. Enjoy! Would you like to make another order? (Listens for 3 seconds)
+- 00:48 Partner: No.
+-  00:51 Nishant: Have a good day!
 
 ---
 
