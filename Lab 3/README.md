@@ -199,6 +199,13 @@ Find a partner, and *without sharing the script with your partner* try out the d
 
 The dialogue felt less natural when acted out than we had imagined. We designed the platform to only recognize certain words exactly, so having to repeat the options after that felt awkward because their choice was already clear. The fixed listening windows also created pauses even when my partner answered immediately. We would improve the interaction by accepting more natural phrases, and responding sooner when the user finishes speaking if possible.
 
+Feedback from other groups:
+- [Group #1](https://github.com/Morinzzz/Interactive-Lab-Hub/tree/Fall2026/Lab%203)
+  - I really like the idea of vending machine and the states of the machine. I think the states you came up with covered every scenario possible. Maybe the machine can just ask for the snack, no need for welcome message, or maybe indicate how long the welcome message will last.
+- [Group #2](https://github.com/9JAyemi/Interactive-Lab-Hub/tree/Fall2026/Lab%203)
+  - I like the overall idea for this project and I think the interface is cool. One piece of advice I would say is maybe have the machine not reply too fast in order to process the language of the chosen snack correctly.
+- [Group #3]()
+  - 
 ---
 
 # Lab 3 Part 2
@@ -207,10 +214,16 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 
 ## Prep for Part 2
 
-1. What are concrete things that could use improvement in the design of your device? For example: wording, timing, anticipation of misunderstandings.
+1. What are concrete things that could use improvement in the design of your device? For example: wording, timing, anticipation of misunderstandings.> 
+
+> From the dialogue we found a few issues. Options were hidden, the first thing the partner said was what are the options and the machine doesn't really answer that question. It's also annoying for the transcriptoin to match the exact wording of the item and rely on that to select the snack. Another thing is that listening windows are very fixed and some snacks have a longer name or the user might be thinking a lot.
+
 2. What are other modes of interaction *beyond speech* that you might also use to clarify how to interact? In particular: how does someone know when the device is listening, and when it is thinking? You have a screen and an LED.
-3. Make a new storyboard, diagram and/or script based on these reflections.
-4. (optional) Integrate [input devices](inputs.md) in the system
+
+> We can use the joystick for browsing through the vending machine items. This addresses the what are the options questions as users can see and figure it out themselves. The screen can show the currently selected item/menu one by one. We can show on the LED the current state on whether the device is listening or speaking or dispensing.
+
+4. Make a new storyboard, diagram and/or script based on these reflections.
+5. (optional) Integrate [input devices](inputs.md) in the system
 
 ## Prototype your system
 
