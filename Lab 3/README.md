@@ -110,21 +110,13 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 > <img width="3028" height="2069" alt="vending-machine-storyboard" src="https://github.com/user-attachments/assets/17fc15af-6d5c-4808-812b-5b59298a8b66" />
 
 ## Prototype your system
+[Here is the video of our system!](https://youtu.be/gHbyDP6Z504?si=-SviBDzsK90jyTxh)
 
-The system should:
-* use the Raspberry Pi
-* use one or more sensors
-* require participants to speak to it
+<img width="1528" height="604" alt="Screenshot 2026-10-04 225459" src="https://github.com/user-attachments/assets/38053019-6308-4ec4-ac26-89823d3bbaf3" />
 
-*Document how the system works.*
-
-*Include videos or screencaptures of both the system and the controller.*
+For the system to work, press the top button to browse through snacks and the bottom button to select one. Wait for “LISTENING,” then say "yes" to confirm or "no" to return to browsing. Each snack costs $2. Choose "cash" or "card" when prompted. For card payment, say a made-up four-digit number, one digit at a time. Telling the machine 0000 or an invalid number returns you to selection. For cash, state your amount. Telling it an amount that is $2 or more is accepted, while insufficient funds returns you to selection. Successful payment plays a dispensing animation and spoken confirmation. All payments and dispensing are simulated. Repeat the process to order another snack!
 
 ## Test the system
-
-Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard *after* the interaction, but we recognize that can be hard.)
-
-Answer the following:
 
 ### What worked well about the system and what didn't?
 \*\**your answer here*\*\*
