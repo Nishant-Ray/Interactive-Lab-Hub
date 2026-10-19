@@ -155,6 +155,8 @@ What changes when you adjust the sensor placement or servo motion?<br>
 
 (Prototype images/videos shown below)
 
+The challenging part of the project was connecting the wires and sensors to the actual hardware, and getting the code to actually have an effect. It took several iterations to figure out how things worked together. Regardless, by the end of the process, it was fascinating to see how with just a little code, something tangible and real was possible. It was pretty fun to see the escalation of how "angry" our cookie jar slapper got when someone tried stealing a cookie again. Overall, connecting sensing, movement, and physical form itself isn't too hard but thinking about how to connect them together and use them creatively to achieve a purpose or feeling to others is the hard part and thinking about the inputs and outputs of the system was a bit challenging but fun.
+
 ---
 
 ### Part F
