@@ -2,7 +2,7 @@
 
 **Team:**
 
-**Members:** Full Name (netid, github-handle), ...
+**Members:** [Nishant Ray](https://github.com/Nishant-Ray/Interactive-Lab-Hub) (nr487), [Neeha Ravula](https://github.com/neeharavula/Interactive-Lab-Hub/tree/Fall2026) (nr485), [Gaurav Patel](https://github.com/Gtpatel02/Interactive-Lab-Hub) (gp438)
 
 **Project name:**
 
@@ -136,6 +136,9 @@ pi@raspberrypi:~ $ ollama list
 
 \*\*\***Include a screenshot of `ollama list` showing your models.**\*\*\*
 
+**Downloaded Ollama models:**
+
+![ollama list](<ollamalist.png>)
 
 ## Part B. 
 ### See: recognize people in real time with YOLO
@@ -161,6 +164,26 @@ Then press q to quit and run it again with a flag. Each one changes a single thi
 
 \*\*\***Include a short video or screenshots of your experiments with the person detection. Write down three situations where it did not see you, or saw a person who was not there, and what you think the cause was.**\*\*\*
 
+Normal Run:
+
+https://github.com/user-attachments/assets/1a05d733-c15a-4d1c-a962-67a4480fe0e8
+
+
+Conf 0.2 Run:
+
+https://github.com/user-attachments/assets/9067856e-9f18-48fc-8372-b3514c863c17
+
+Conf 0.7 Run:
+
+https://github.com/user-attachments/assets/85584b70-177f-4a23-9fba-e7f75ee74735
+
+All Run:
+
+https://github.com/user-attachments/assets/4f3ac2dd-5ef0-4311-a953-523dd6e1ac79
+
+Headless Run:
+
+https://github.com/user-attachments/assets/206a35e1-6907-4a61-a05e-ca643d327f8e
 
 
 ## Part C. 
@@ -189,6 +212,7 @@ Consider how you might use this position based approach to create an interaction
 
 \*\*\***Include a screenshot or short video of the hand pose demo, and write how you might use face, hand or body pose tracking in your observant system.**\*\*\*
 
+https://github.com/user-attachments/assets/feffde71-29b8-4efa-85b6-00f44571db8b
 
 ## Part D. 
 ### Reason: run Qwen on the Pi with Ollama
