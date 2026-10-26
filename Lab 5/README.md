@@ -185,6 +185,11 @@ Headless Run:
 
 https://github.com/user-attachments/assets/206a35e1-6907-4a61-a05e-ca643d327f8e
 
+Observations:
+- In the `--conf 0.2` experiment, while walking around, YOLO briefly detected a nonexistent person at the side of the frame with a confidence of 0.37. Background shapes or shadows may have resembled a person, and the lower threshold allowed this uncertain detection to appear.
+- In the `--conf 0.7` experiment, for a few seconds, YOLO did not draw a box correctly. Movement, changes in pose, or partial visibility may have lowered its confidence below 0.7, causing the stricter threshold to filter out the detection.
+- In headless mode, the printed readings briefly showed no person detection. Movement or an unfamiliar viewing angle may have caused a temporary detection failure. Headless mode only removes the display, rather than change the model’s accuracy, so a possible explanation is that moving or turning briefly made the body harder to recognize, lowering the model’s confidence below the detection threshold.
+- In `--all` mode, YOLO correctly identified a chair but briefly labeled something at the side as a refrigerator. Background edges or rectangular shapes may have resembled features the model associates with refrigerators.
 
 ## Part C. 
 ### See more: hands and pose with MediaPipe
